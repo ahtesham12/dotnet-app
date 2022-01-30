@@ -1,6 +1,6 @@
 # .NET Core Sample App for OpenShift
 
-This repository contains an example .NET Core application that can be deployed on OpenShift.
+This repository contains an example of .NET Core application that can be deployed on OpenShift.
 
 The example is a simple CRUD web application that persists information in a database.
 
